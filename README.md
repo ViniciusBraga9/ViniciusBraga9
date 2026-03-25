@@ -1,4 +1,4 @@
-👨‍💻 Vinicius | Back-end Developer em Formação
+👨‍💻 Vinicius Braga | Back-end Developer em Formação
 
 🎯 Foco em Back-end | Engenharia de Software | Inteligência Artificial
 📚 Estudante de Sistemas de Informação
